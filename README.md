@@ -8,6 +8,6 @@ The Student Supervisor Management System is a new digital platform developed as 
 meet the team:
 1. Zariff Azam (team lead)
 2. Luqman Azmi (main developer)
-3. Nayat Nasir (Ui/Ux designer)
+3. Nasyat Nasir (Ui/Ux designer)
 4. Rasyid Ghani (System analyst)
 5. Farhan Hariri (System analyst)
